@@ -2,6 +2,8 @@
   "mappings": [
     "/content/wknd-universal/language-masters/en:/",
     "/content/wknd-universal/language-masters/en/:/en/",
+    "/content/wknd-universal/language-masters/en/new-page:/en/old-page-path",
+    "/content/wknd-universal/language-masters/en/magazine:/en/old-magazine-page-path",
     "/content/wknd-universal/language-masters/fr/:/fr/",
     "/content/wknd-universal/language-masters/fr:/fr",
     "/content/wknd-universal/language-masters/es/:/es/",
